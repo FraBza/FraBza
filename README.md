@@ -1,5 +1,5 @@
 - 👋 Salut, Je suis @FraBza (Soufiane)
-- 🌱 J'etudie à ENI Ecole (Ecole Nantaise D'informatique). Beaucoup d'auto didacte, je débute aussi sur Hack The Box, Root-Me 105 pts (c'est le debut), et beaucoup d'OpenClass Room.
+- 🌱 J'etudie à ENI Ecole (Ecole Nantaise D'informatique). Beaucoup d'auto didacte, je débute simplement... Root-Me 110 pts (c'est le debut) des catégories web comme tout le monde, et beaucoup d'OpenClass Room à un instant de ma vie. 
 - ✨ To be Continued...
 
 <!---
