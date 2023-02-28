@@ -1,5 +1,5 @@
-- 👋 Salut, Je suis @FraBza (Soufiane)
-- 🌱 J'etudie à ENI Ecole (Ecole Nantaise D'informatique). Beaucoup d'auto didacte, je débute simplement... Root-Me un peu plus de 400 pts (c'est le debut) des catégories web comme tout le monde,TryHack-Me et beaucoup d'OpenClass Room à un instant de ma vie. 
+- 👋 Heyy, I am @FraBza (Soufiane)  - FraBa
+- 🌱 A lot of self-taught, I just started... Root-Me a little under 400 pts (it’s the beginning) Web categories like everyone else, TryHack-Me - HTB and a lot of OpenClass Room at a moment in my life. 
 - ✨ To be Continued...
 
 <!---
