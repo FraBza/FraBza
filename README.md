@@ -1,5 +1,5 @@
 - 👋 Heyy, I am @FraBza (Soufiane)  - FraBa
-- 🌱 A lot of self-taught, I just started... Root-Me a little under 400 pts (it’s the beginning) Web categories like everyone else, TryHack-Me - HTB and a lot of OpenClass Room at a moment in my life. 
+- 🌱 A lot of self-taught, I just started... Root-Me i am just under 400 pts (it’s the beginning) Web categories like everyone else, TryHack-Me - HTB and a lot of time passed on OpenClassRoom.
 - ✨ To be Continued...
 
 <!---
